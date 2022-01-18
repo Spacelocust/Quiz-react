@@ -1,0 +1,4 @@
+{
+  "/quizz": "/quizz",
+  "/quizz/:id": "/quizz/:id"
+}

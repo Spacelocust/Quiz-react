@@ -1,0 +1,58 @@
+{
+  "quizz": [
+    {
+      "id": 1,
+      "title": "quizz 1",
+      "questions": [
+        {
+          "title": "question 1",
+          "answers": [
+            {
+              "title": "answer 1",
+              "good": true
+            },
+            {
+              "title": "answer 2",
+              "good": false
+            },
+            {
+              "title": "answer 3",
+              "good": false
+            },
+            {
+              "title": "answer 4",
+              "good": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "quizz 2",
+      "questions": [
+        {
+          "title": "question 2",
+          "answers": [
+            {
+              "title": "answer 1",
+              "good": false
+            },
+            {
+              "title": "answer 2",
+              "good": true
+            },
+            {
+              "title": "answer 3",
+              "good": false
+            },
+            {
+              "title": "answer 4",
+              "good": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
